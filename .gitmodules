@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/andrewcshi/TreeHacks-2024
+[submodule "client_visionOS"]
+	path = client_visionOS
+	url = https://github.com/taeukkang/oculife-xr
